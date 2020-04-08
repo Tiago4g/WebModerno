@@ -45,14 +45,12 @@ Extras:
   - [ESLint](https://eslint.org/)
   
 
-## 💻 Projeto
+## 💻 Projetos
 
-- []()
+- [Projeto Galeria]()
 
-- []()
+- [Projeto Calculadora]()
 
-- []()
+- [Projeto Cadastro de Usuário]()
 
-- []()
-
-- []()
+- [Projeto Monty Hall]()
